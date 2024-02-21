@@ -8,7 +8,7 @@ In this deliverable, I created a Python script to visualize the weather of over 
 
 **Requirement 1:** Created Plots to Showcase the Relationship Between Weather Variables and Latitude
 
-To fulfill the first requirement, I used the *OpenWeatherMap* API to retrieve weather data from the cities list generated in the code. Next, I created a series of scatter plots to showcase the following relationships:
+To fulfill the first requirement, I used the '*OpenWeatherMap*' API to retrieve weather data from the cities list generated in the code. Next, I created a series of scatter plots to showcase the following relationships:
 - Latitude vs. Temperature
 - Latitude vs. Humidity
 - Latitude vs. Cloudiness
